@@ -1,3 +1,3 @@
 # Data-Visualization
-Compilation of Notes related to Data Visualization by Puneet Gupta
+Compilation of Notes for Data Visualization by Puneet Gupta
 
